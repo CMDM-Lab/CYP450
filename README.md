@@ -8,7 +8,7 @@ Here are source code for demonstrating performing machine learning and deep lear
 - SVC.py is for Support Vector Machine.
 - SVR.py is for Support Vector Regression.
 ## Authors
-Yu-Hao Ni<sup>1</sup>, Yu-Wen Su<sup>1</sup>, Shaung-Chen Yang<sup>2</sup>, Jia-Cheng Hong<sup>1</sup>, Tien-Chueh Kuo<sup>1,5</sup>, and4 Yufeng Jane Tseng<sup>1,3,4,5,*</sup>
+Yu-Hao Ni<sup>1</sup>, Yu-Wen Su<sup>1</sup>, Shaung-Chen Yang<sup>2</sup>, Jia-Cheng Hong<sup>1</sup>, Tien-Chueh Kuo<sup>1,5</sup>, and Yufeng Jane Tseng<sup>1,3,4,5,*</sup>
 
 <sup>1</sup>Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taipei 10617,Taiwan
 
@@ -32,3 +32,6 @@ techniques alongside advanced methodologies such as Graph Convolutional Networks
 developed to elucidate these drug-enzyme interactions. The dataset is poised to significantly contribute to fields requiring
 pharmacokinetic modeling, furthering drug development efforts and toxicological studies by providing an essential resource for
 the accurate prediction of metabolic pathways, thereby enhancing drug safety and efficacy assessments.
+
+## dataset repository
+DOI: [10.6084/m9.figshare.26630515](https://doi.org/10.6084/m9.figshare.26630515)
