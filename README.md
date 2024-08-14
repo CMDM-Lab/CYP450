@@ -1,7 +1,7 @@
 # Comprehensively-Curated Dataset of CYP450 Interactions: Enhancing Predictive Models for Drug Metabolism
 
 ## Description
-Here are source code for demonstrating performing machine learning and deep learning with this dataset.
+Here are source codes for demonstrating machine learning and deep learning using this dataset.
 - DT.py is for Decision Tree.
 - GCN_hyperopt_CV.py is for Graph Convolution Network (GCN)
 - RF.py is for Random Forest.
